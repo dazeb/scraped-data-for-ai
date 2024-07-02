@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Pelican",
+    "url": "https://pelican.dev/docs/glossary/",
+    "html": "Skip to main content\nPelican\nInstall\nBlog\nDonate\nNewsletter\nFAQ\nWelcome to Pelican!\nPanel\nGetting Started\nWebserver Configuration\nConfiguration Options\nUpdating the Panel\nAdvanced\nWings\nGuides\nTroubleshooting\nWhat is ...?\nWhat is ...?\nWhat is ...?\nThings & Words​\n\nPanel — web application that interfaces with Wings and lets you control your Servers.\n\nWings — application that gives you secure control of your Servers via your Panel.\n\nNode — machine (computer or server) that runs Wings to connect to the Panel.\n\nServer — instance of a Container that is maintained by Wings.\n\nDocker — platform that lets you run Servers in isolated containers.\n\nDocker Image — file that contains libraries, dependencies, files, etc needed to run a Container.\n\nContainer — virtualized environment that your Servers run in.\n\nEgg — file that configures how to run a Docker Image.\n\nYolks — curated collection of (core) Docker Images that can be used with Pelican's Eggs.\n\nBasic Example Setup Diagram​\nEdit this page\nPrevious\nTroubleshooting\nThings & Words\nBasic Example Setup Diagram\nDocumentation\nPanel\nWings\nSSL Setup\nCommunity\nDiscord\nBlog\nGitHub\nCopyright © 2024 Pelican"
+  }
+]
